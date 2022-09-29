@@ -74,7 +74,7 @@
 }
 
 .header__square-pic {
- object-fit: cover; 
+ object-fit: cover;
  width: 568px;
  height: 568px;
  color: #2f80ed;
@@ -85,7 +85,7 @@
  z-index: 0;
 }
 .header__link {
- color: #2f80ed; 
+ color: #2f80ed;
  text-decoration: none;
 }
 .description {
@@ -96,7 +96,7 @@
 
 .two-colums {
   display: flex;
-  width: 80%; 
+  width: 80%;
   min-width: 784px;
 justify-content: space-between;
 
@@ -236,7 +236,7 @@ justify-content: space-between;
   position: absolute;
   top: 50%;
   right: 48px;
-  color: #2f80ed; 
+  color: #2f80ed;
   text-decoration: none;
   justify-content: flex-end;
   z-index: 5;
