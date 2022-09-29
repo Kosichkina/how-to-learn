@@ -282,7 +282,7 @@ justify-content: space-between;
   flex-wrap: wrap;
   list-style-type: none;
   margin:0 auto 0 auto;
-  padding: 0; 
+  padding: 0;
   z-index: 2;
 
 }
@@ -312,7 +312,7 @@ justify-content: space-between;
   z-index: 2;
 }
 .triangle {
- object-fit: cover; 
+ object-fit: cover;
  position: absolute;
  width: 877px;
  height: 877px;
@@ -391,7 +391,7 @@ justify-content: space-between;
 
  .column__content_social {
   display: flex;
-  margin: 0; 
+  margin: 0;
   flex-direction: column;
   }
 
