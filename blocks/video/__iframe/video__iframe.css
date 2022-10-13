@@ -5,5 +5,9 @@
     margin: 0 20px 0 0;
     padding: 0;
     justify-content: center;
+    border: 0;
   
+  }
+  .video__iframe:last-child {
+    margin-right: 0;
   }
